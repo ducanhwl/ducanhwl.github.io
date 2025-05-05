@@ -1,0 +1,35 @@
+body{
+  margin:0;
+	font-family: sans-serif
+	
+}
+header h1{
+	background-color:#354249; margin:auto;padding: 38px 0 1.44px; color: white;
+}
+header nav ul{
+	margin-bottom: 0;}
+hr{
+    margin: 0;
+    border-color: #e44d26;
+    border-width: 2px;
+    border-style: solid;}
+
+.container{
+	
+	
+}
+
+/* Header **/
+header{
+ 	background-color:#354249
+}
+
+footer{
+  margin: 0;
+  margin-top:18px;
+    padding: 40px;
+    color: white;
+    background-color: #e44d26;
+    text-align: center
+}
+
