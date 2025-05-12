@@ -1,0 +1,120 @@
+body{
+ 	margin:0;
+	font-family: sans-serif;
+	padding:5px;
+	
+}
+header h1{
+	/*background-color:#354249; margin:auto;padding: 38px 0 1.44px; */
+	color: white;
+}
+header nav ul{
+	margin-bottom: 0;}
+hr{
+    margin: 0;
+    border-color: #e44d26;
+    border-width: 2px;
+    border-style: solid;}
+
+ .container {
+	
+	
+   }
+.highlight{
+	color:#e44d26
+}
+
+nav a{
+	color:white;
+	text-decoration-line:none;
+	font: 16px sans-serif;
+	text-transform:uppercase;
+}
+
+nav a:hover{
+	color:#e44d26;
+}
+/*nav a:visited{
+	color:#e44d26;
+}*/
+
+/* Header **/
+header{
+ 	background-color:#354249;
+	padding: 0 200px;
+}
+
+header div{
+	
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	padding:8px 0;
+}
+
+header nav ul{
+	
+    margin-top: auto;
+    display: inline-flex;
+    list-style-type: none;
+	margin-bottom: 0;}
+
+nav li{
+	margin: 20px;
+	
+	
+}
+
+input{
+	
+    width: -webkit-fill-available;
+
+}
+
+textarea{
+
+    width: -webkit-fill-available;
+
+}
+
+.current{
+	color:#e44d26;
+}
+
+#newsletter{
+	padding: 0 200px;
+}
+
+#main{
+	padding: 0 200px;
+}
+
+#showcase{
+	padding: 104px 200px;
+	background-image: url(file:///D:/nnlt/EX06/img/showcase.png);
+	text-align: center;
+	color:white;
+	background-size: cover;
+}
+#showcase h1{
+	font-size:66px;
+	
+}
+#showcase p{
+	font-size:25px;
+}
+
+#boxes{
+	padding: 0 200px;
+}
+
+
+footer{
+  margin: 0;
+  margin-top:18px;
+    padding: 40px;
+    color: white;
+    background-color: #e44d26;
+    text-align: center
+}
+
